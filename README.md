@@ -120,6 +120,7 @@ Trabalhos
  - [Simulation of a Virus' Spread](https://github.com/TheForgottened/computer-science-engineering/tree/main/P/final-assignment) feito por [TheForgotten](https://github.com/TheForgottened) em 2019/20
  - [Ultimate-Tic-Tac-Toe](https://github.com/Nun0Santos/Ultimate-Tic-Tac-Toe) feito por [Nuno Santos](https://github.com/Nun0Santos) em 2021/2022
  - [Tic-Tac-Toe 21/22](https://github.com/tfig-dev/prog-22) feito por [Tiago Figueiredo](https://github.com/tfig-dev/) em 2021/2022
+ - [Sistema de Metro 22/23] (https://github.com/face144/TrabalhoPratico-PROG-2023) feito por [José Parente](https://github.com/face144)
 
 Recursos
 - [PROG-exercicios](https://github.com/JOSEALM3IDA/isec-material/tree/main/PROG-2020/progexercicios) mantido por [JOSEALM3IDA](https://github.com/JOSEALM3IDA)
