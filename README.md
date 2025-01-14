@@ -1,3 +1,6 @@
+## ⚠️ Isto é só uma lista de repos de conteúdos criados por *alunos*
+**Não são materiais para estudo de professores, usem como exemplos de como outros fizeram, não como se deve fazer.**
+
 # Lista-de-Repos
 
 Esta lista serve para indexar os repos relacionados com as cadeiras de EI do ISEC, repos de trabalhos e recursos para estudar, como notas, exercícios, resoluções, etc.
